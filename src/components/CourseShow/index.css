@@ -1,0 +1,11 @@
+.detailView {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.CourseImage {
+  margin: 10px;
+  height: 800px;
+  width: 600px;
+}
